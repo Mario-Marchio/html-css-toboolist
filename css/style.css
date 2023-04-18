@@ -45,5 +45,70 @@ button{
 #first-contenitor{
     padding: 30px;
     margin: 10px;
-
+}
+.second-container{
+    margin-left: 40px;
+    margin-bottom: 10px;
+}
+h2{
+    display: inline;
+}
+section{
+    margin: 20px 0;
+    font-size: 1.5em;
+}
+.vignetta{
+    font-size: 0.7em;
+    background-color: #1d9ec5;
+    border: 10px solid #1d9ec5;
+    border-radius: 15px;
+}
+.true{
+    color: lime;
+    border: 2px solid lime;
+    border-radius: 20px;
+    height: 37px;
+    width: 37px;
+    display: inline-block;
+}
+.false{
+    color: red;
+    border: 2px solid red;
+    border-radius: 20px;
+    height: 37px;
+    width: 37px;
+    display: inline-block;
+}
+.vignetta-viola{
+    font-size: 0.7em;
+    background-color: rgb(156, 62, 156);
+    border: 10px solid rgb(156, 62, 156);
+    border-radius: 15px;
+}
+.vignetta-verde-acqua{
+    font-size: 0.7em;
+    background-color: rgb(99, 204, 152);
+    border: 10px solid rgb(99, 204, 152);
+    border-radius: 15px;
+}
+.vignetta-arancione{
+    font-size: 0.7em;
+    background-color: rgb(235, 173, 39);
+    border: 10px solid rgb(235, 173, 39);
+    border-radius: 15px;
+}
+.vignetta-rosa{
+    font-size: 0.7em;
+    background-color: rgb(209, 86, 162);
+    border: 10px solid rgb(209, 86, 162);
+    border-radius: 15px;
+}
+.vignetta-lime{
+    font-size: 0.7em;
+    background-color:rgb(106, 214, 106) ;
+    border: 10px solid rgb(106, 214, 106);
+    border-radius: 15px;
+}
+#nascosto{
+    visibility: hidden;
 }
