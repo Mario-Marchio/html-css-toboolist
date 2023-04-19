@@ -73,6 +73,8 @@ section{
     height: 37px;
     width: 37px;
     display: inline-block;
+    vertical-align: middle;
+    text-align: center;
 }
 .false{
     color: red;
@@ -81,6 +83,9 @@ section{
     height: 37px;
     width: 37px;
     display: inline-block;
+    vertical-align: middle;
+    text-align: center;
+
 }
 .vignetta-viola{
     font-size: 0.7em;
