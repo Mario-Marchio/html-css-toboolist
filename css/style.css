@@ -26,8 +26,7 @@ header{
 }
 main{
     width: 60%;
-    margin-top: 65px;
-    margin-left: 540px;
+    margin:34px auto;
     background-color: #fff;
 }
 button{
@@ -44,10 +43,7 @@ button{
 }
 #first-contenitor{
     padding: 30px;
-    margin: -4px;
-    border-bottom: 3px;
-    border-color: #7d778a;
-    border-style: solid;
+    border-bottom: 3px solid #7d778a;
 }
 .second-container{
     margin-left: 40px;
